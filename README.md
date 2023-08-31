@@ -1,1 +1,2 @@
-# ml-digits
+# ML-Ops Class '23
+#
