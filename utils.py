@@ -3,6 +3,10 @@
 from sklearn import svm,datasets
 from sklearn.model_selection import train_test_split
 #
+def split_train_dev_test(X, y, test_size, dev_size):
+	return 1
+def predict_and_eval(model, X_test, y_test)
+	return 1;
 #read gigits
 def read_digits():
     digits = datasets.load_digits()
